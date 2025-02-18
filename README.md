@@ -6,7 +6,7 @@
 This is a solution to the Social links profile challenge on Frontend Mentor. 
 Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-[Click here](https://fm-social-links-profile-brown.vercel.app/)
+[Click here]([https://fm-social-links-profile-brown.vercel.app/](https://fm-social-links-profile-mu.vercel.app/))
 
 ## Tecnologias 🌹
 
