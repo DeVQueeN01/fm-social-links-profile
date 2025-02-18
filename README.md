@@ -1,12 +1,12 @@
 # Frontend Mentor - Social links profile
 
-<img width="1117" alt="Screenshot 2025-02-18 at 16 34 11" src="https://github.com/user-attachments/assets/e2c42557-4f4d-4541-9106-d40db957d115" />
+<img width="1105" alt="Screenshot 2025-02-18 at 22 42 00" src="https://github.com/user-attachments/assets/40c55564-3959-423d-852a-3e7707ab1a10" />
 
 ## Welcome! 🌸  
 This is a solution to the Social links profile challenge on Frontend Mentor. 
 Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-[Click here]([https://fm-social-links-profile-brown.vercel.app/](https://fm-social-links-profile-mu.vercel.app/))
+[Click here](https://fm-social-links-profile-mu.vercel.app/)
 
 ## Tecnologias 🌹
 
